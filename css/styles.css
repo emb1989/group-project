@@ -9,14 +9,17 @@ margin: 50px;
 text-align: flex;
 }
 
-h1, h2 {
+h1, h2, h {
 text-align: flex;
 }
 h1 {
 font-size: 4em;
 }
 h2 {
-font-size: 2.5em;
+font-size: 3.5em;
+}
+h3 {
+font-size: 3em;
 }
 img {
 display: flex;
@@ -24,10 +27,16 @@ padding: 0px;
 margin: 0 auto;
 border-radius: 40px;
 }
-p {
+p1 {
 text-align: flex;
 width: 80%;
-margin: 10vh 15vw;
+margin: 0vh 0vw;
+font-size: 1.5em;
+}
+p2 {
+text-align: flex;
+width: 80%;
+margin: 0vh 0vw;
 font-size: 1.5em;
 }
 a {
